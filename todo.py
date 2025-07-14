@@ -6,7 +6,7 @@ def view():
             print(f"{index}:{data.strip()}")
     
 def add():
-    choice=(input("Enter the task desc"))
+    choice=(input("Enter the task desc: "))
     with open("todo.txt","a")as file:
         file.write(choice+"\n")
 

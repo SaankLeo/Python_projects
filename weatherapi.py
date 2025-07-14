@@ -20,11 +20,13 @@ if response.status_code==200:
         avg_temp=day['day']['avgtemp_c']
         max_temp = day['day']['maxtemp_c']
         min_temp = day['day']['mintemp_c']
+        temp_c = day['hour'][0]['temp_c']
 
     print(f"Date: {date}")
     print(f"Avg Temp (°C): {avg_temp}")
     print(f"Max Temp (°C): {max_temp}")
     print(f"Min Temp (°C): {min_temp}")
+    print(f"Temp in C: {temp_c}")
     print("-" * 30)
 
 
