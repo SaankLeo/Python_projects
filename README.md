@@ -2,6 +2,8 @@
 ## 📁 Project Overview
 
 Here are the Python scripts in this repo with a brief on what each one does:
+
+
 💰 `cryptoprice.py`
 
 - **Description**: Fetches and displays the current price of a user-entered cryptocurrency (e.g., Bitcoin) in a selected currency (INR, USD, etc.) using the CoinGecko API.
