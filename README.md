@@ -4,6 +4,10 @@
 Here are the Python scripts in this repo with a brief on what each one does:
 
 ---
+### ⛅ `weatherapi.py`
+- **Description:** Fetches and displays the average, max, and min temperature for the next 2 days using WeatherAPI.
+- **Concepts Used:** `requests`, API parameters, JSON parsing, loop through nested data.
+---
 
 ### 📝 `todo.py`
 - **Description:** Command-line based to-do list manager that reads and writes to `todo.txt`.
