@@ -3,12 +3,13 @@
 
 Here are the Python scripts in this repo with a brief on what each one does:
 
-
-💰 `cryptoprice.py`
-
-- **Description**: Fetches and displays the current price of a user-entered cryptocurrency (e.g., Bitcoin) in a selected currency (INR, USD, etc.) using the CoinGecko API.
-- **Concepts Used**: `requests`, API query parameters, JSON parsing, user input handling, error handling, string formatting.
-
+💥 superhero_akinator.py
+Description: Guesses the superhero a user is thinking of by asking a series of yes/no questions using a dataset of popular heroes.
+Concepts Used: Nested dictionaries, conditional logic, recursive node traversal.
+Dataset: Spider-Man, Iron Man, Captain America, Thor, Batman, Superman, Wonder Woman, Flash.
+---
+💰 cryptoprice.py - 
+**Description**: Fetches and displays the current price of a user-entered cryptocurrency (e.g., Bitcoin) in a selected currency (INR, USD, etc.) using the CoinGecko API. - **Concepts Used**: requests, API query parameters, JSON parsing, user input handling, error handling, string formatting.
 ---
 ### ⛅ `weatherapi.py`
 - **Description:** Fetches and displays the average, max, and min temperature for the next 2 days using WeatherAPI.
@@ -32,3 +33,4 @@ Here are the Python scripts in this repo with a brief on what each one does:
 - **Concepts Used:** Conditionals, string processing, custom logic.
 
 ---
+
