@@ -3,6 +3,11 @@
 
 Here are the Python scripts in this repo with a brief on what each one does:
 
+🛡️ `hacksim.py`  
+- **Description:** Simulates ultra-hard IP detection logic for a hypothetical hacking mission.  
+- **Concepts Used:** Conditionals, string processing, custom logic.
+
+
 💥 `superhero_akinator.py`  
 - **Description:** Guesses the superhero a user is thinking of by asking a series of yes/no questions using a dataset of popular heroes.  
 - **Concepts Used:** Nested dictionaries, conditional logic, recursive node traversal.  
@@ -24,9 +29,8 @@ Here are the Python scripts in this repo with a brief on what each one does:
 - **Description:** Fetches top news headlines using the NewsAPI and displays them in the terminal.  
 - **Concepts Used:** requests, JSON handling, API integration.  
 
-🛡️ `hacksim.py`  
-- **Description:** Simulates ultra-hard IP detection logic for a hypothetical hacking mission.  
-- **Concepts Used:** Conditionals, string processing, custom logic.  
+ 
+
 
 
 
