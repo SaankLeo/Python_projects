@@ -21,7 +21,7 @@ Here are the Python scripts in this repo with a brief on what each one does:
 - **Description:** Fetches and displays the average, max, and min temperature for the next 2 days using WeatherAPI.  
 - **Concepts Used:** requests, API parameters, JSON parsing, loop through nested data.
 
-  📰 `newsapi.py`  
+📰 `newsapi.py`  
 - **Description:** Fetches top news headlines using the NewsAPI and displays them in the terminal.  
 - **Concepts Used:** requests, JSON handling, API integration. 
    
@@ -33,6 +33,7 @@ Here are the Python scripts in this repo with a brief on what each one does:
  
 
  
+
 
 
 
